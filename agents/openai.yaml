@@ -1,0 +1,4 @@
+interface:
+  display_name: "iPhone Candid Photo"
+  short_description: "Generate realistic, imperfect iPhone-style photos"
+  default_prompt: "Use $iphone-candid-photo to turn my scene into a realistic iPhone snapshot."
